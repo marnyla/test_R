@@ -1,2 +1,2 @@
-a <- rnorm(300)
+a <- rnorm(400)
 plot(a)
